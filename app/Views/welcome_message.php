@@ -59,7 +59,7 @@
 
       <div class="col-md-4">
         <div class="card shadow">
-          <img src="https://images.unsplash.com/photo-1581091870622-2c55b4b3b4c6?auto=format&fit=crop&w=800&q=80" class="card-img-top" alt="Pelatihan Jurnalistik">
+          <img src="https://www.google.com/imgres?q=foto%20jurnalistik&imgurl=https%3A%2F%2Fglints.com%2Fid%2Flowongan%2Fwp-content%2Fuploads%2F2020%2F07%2Fwoman-holding-black-camera-1854897-scaled-e1610519671638.jpg&imgrefurl=https%3A%2F%2Fglints.com%2Fid%2Flowongan%2Ffotografi-jurnalistik%2F&docid=z3kcUyGW2XAqzM&tbnid=HaLahu8gmAyxCM&vet=12ahUKEwjn-tPDw_aOAxUOaCoJHb9iD58QM3oECBcQAA..i&w=600&h=400&hcb=2&ved=2ahUKEwjn-tPDw_aOAxUOaCoJHb9iD58QM3oECBcQAA" class="card-img-top" alt="Pelatihan Jurnalistik">
           <div class="card-body">
             <h5 class="card-title">Pelatihan Jurnalistik</h5>
             <p class="card-text">Gabung pelatihan penulisan berita dan foto jurnalistik untuk siswa SMA/SMK.</p>
